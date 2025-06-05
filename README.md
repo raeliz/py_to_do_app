@@ -1,6 +1,6 @@
 # To-Do Application tested with Playwright
 
-Hi there! This is a starter project that I am using to practice and learn Playwright and testing automation as a whole.
+Hi there! This is a starter project that I am using to practice and learn Playwright and testing automation as a whole, but this time with Pytest and Python.
 
 # Project Setup & Running Instructions
 

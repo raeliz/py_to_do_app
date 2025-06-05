@@ -1,0 +1,27 @@
+{
+  "name": "to_do_app",
+  "version": "1.0.0",
+  "description": "Hi there! This is a starter project that I am using to practice and learn Playwright and testing automation as a whole.",
+  "homepage": "https://github.com/raeliz/py_to_do_app#readme",
+  "bugs": {
+    "url": "https://github.com/raeliz/py_to_do_app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raeliz/py_to_do_app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "playwright-core": "^1.52.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "playwright": "^1.52.0"
+  }
+}
